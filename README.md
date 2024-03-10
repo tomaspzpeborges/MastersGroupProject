@@ -19,3 +19,8 @@ integrate these predictive signals into the environment definition of a Deep Rei
 model, enabling effective order generation and decision-making. The findings contribute to understanding 
 transformer models’ effectiveness in medium-frequency cryptocurrency price prediction and provide
 a promising architecture for future research and development in this evolving field.
+
+
+# Context
+This work was developed as the final year thesis for MEng Computer Science at the University of Leeds.
+Tomás ZB achieved a project grade of 87 and the work was consired fit for publishing.
